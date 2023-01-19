@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mnaveedfaruq
 - 👀 I’m interested in flutter and c#
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently programming flutter
 - 💞️ I’m looking to collaborate on git hub
 - 📫 How to reach me naveedfaruq@gmail.com +923458130934
 
